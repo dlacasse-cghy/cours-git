@@ -1,4 +1,4 @@
-public class Cercle {
+public class Cercle : Forme {
 
     private double _rayon;
 
