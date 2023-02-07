@@ -3,5 +3,8 @@ public class Carre {
 
     public Carre() {}
 
-    
+    public Carre(double longueur)
+    {
+        this._longueur = longueur;
+    }
 }
