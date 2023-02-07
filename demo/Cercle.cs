@@ -8,4 +8,8 @@ public class Cercle {
     public Cercle(double rayon) {
         this._rayon = rayon;
     }
+
+    public Sphere(double rayon){
+        
+    }
 }
