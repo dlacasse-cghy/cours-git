@@ -1,5 +1,5 @@
 public class Cercle {
-    private double _rayon;
+    private double _rayons;
 
 var NathanEstPasBonATarkov = NathanEstNull
 
